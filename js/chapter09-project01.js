@@ -16,6 +16,14 @@ window.addEventListener("load", function () {
 
         var mainForm = document.getElementById('mainForm');
         mainForm.addEventListener('submit', Event => {
+
+        	document.querySelectorAll('.required').forEach(item => {
+                
+               
+              
+    
+                
+          });
   
         }); 
     	
