@@ -1,3 +1,5 @@
-window.addEventListener("load", function(){
+window.addEventListener("load", function () {
+    document.querySelectorAll('.hilightable').forEach(item => {
 
+    });
 });
