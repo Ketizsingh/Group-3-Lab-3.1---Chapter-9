@@ -14,7 +14,10 @@ window.addEventListener("load", function () {
             item.classList.add('hilightable');
         });
 
-        
+        var mainForm = document.getElementById('mainForm');
+        mainForm.addEventListener('submit', Event => {
+  
+        }); 
     	
     });
 });
